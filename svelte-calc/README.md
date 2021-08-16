@@ -1,6 +1,6 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/karolramos/svelteJS/main/svelte-calc/svelteappcalc.png" />
+</div>
 
 # svelte app
 
